@@ -1,2 +1,5 @@
 # js.test
-this is a test
+---
+This is my first repository, or Repo for short 
+
+## Bye 
